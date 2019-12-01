@@ -1,0 +1,24 @@
+{
+  "name": "professionalportfolio",
+  "version": "1.0.0",
+  "description": "kaitlyn mccormick portfolio",
+  "main": "server.js",
+  "dependencies": {
+    "create-react-app": "^3.0.1",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redtgrlily/professionalportfolio.git"
+  },
+  "author": "kaitlyn mccormick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redtgrlily/professionalportfolio/issues"
+  },
+  "homepage": "https://github.com/Redtgrlily/professionalportfolio#readme"
+}
