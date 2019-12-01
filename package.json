@@ -1,21 +1,26 @@
 {
-  "name": "professionalportfolio",
-  "version": "1.0.0",
-  "description": "kaitlyn mccormick portfolio",
-  "main": "server.js",
   "dependencies": {
-    "create-react-app": "^3.0.1",
-    "react": "^16.8.6"
+    "create-react-app": "^3.2.0",
+    "node.js": "^0.0.0"
   },
+  "name": "kmccormickportfolio",
+  "description": "Kaitlyn McCormick Professional Portfolio",
+  "version": "1.0.0",
+  "main": "yarn start",
   "devDependencies": {},
   "scripts": {
-    "test": "npm start"
+    "test": "yarn start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Redtgrlily/professionalportfolio.git"
   },
-  "author": "kaitlyn mccormick",
+  "keywords": [
+    "portfolio",
+    "mern",
+    "react"
+  ],
+  "author": "Kaitlyn McCormick",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Redtgrlily/professionalportfolio/issues"
